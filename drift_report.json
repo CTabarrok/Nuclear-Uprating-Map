@@ -1,5 +1,5 @@
 {
-  "checked": "2026-08-10 07:51 UTC",
+  "checked": "2026-08-17 07:05 UTC",
   "ok": true,
   "restriction_list": [
     "CA",
@@ -16,7 +16,7 @@
   "added": [],
   "removed": [],
   "notes": [
-    "NCSL cross-check unavailable (ncsl:wayback-no-snapshot) \u2014 proceeding on DOE + overrides.",
+    "NCSL cross-check unavailable (ncsl:wayback-unavailable:fetch failed for https://archive.org/wayback/available?url=ncsl.org%2Fenvironment-and-natural-resources%2Fstates-restrictions-on-new-nuclear-power-facility-construction: HTTP Error 502: Bad Gateway) \u2014 proceeding on DOE + overrides.",
     "No change to the restriction list since last run."
   ]
 }
